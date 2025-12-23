@@ -12,5 +12,6 @@ public class Main {
 //        System.out.println(123456);
 //        System.out.println(hello);
         // ch01_variable 패키지를 만들고 Main 클래스를 생성하시오.
+
     }
 }
