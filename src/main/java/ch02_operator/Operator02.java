@@ -4,7 +4,7 @@ package ch02_operator;
     true(1) / false(0) : 컴퓨터가 읽을 수 있는 두 숫자
     boolean : true / false를 구분하는 자료형
 
-    AND(&&) : 곱 연삽자 T x T = T / T x F = F / F x F = F -> 하나라도 false면 false
+    AND(&&) : 곱 연산자 T x T = T / T x F = F / F x F = F -> 하나라도 false면 false
     OR(\\) : 합 연산자 T + T = T / T + F = F / F + F = F -> 하나라도 true면 true
     Not(!) : true 값을 false로, false 값을 true로 역전시키는 연산자
  */

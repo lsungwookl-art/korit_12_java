@@ -29,7 +29,7 @@ class Scanner02 {
 //        String name = scanner.next();
 //        System.out.print(name + " 학생의 점수는 " + score + "입니다.");
 
-        // 풀어법 3
+        // 풀이법 3
         System.out.print("점수를 입력하세요 >>> ");
         String score = scanner.nextLine();
         System.out.print("이름을 입력하세요 >>> ");
